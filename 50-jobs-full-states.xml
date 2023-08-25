@@ -9,7 +9,7 @@
     <country_code><![CDATA[US]]></country_code>
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time, part_time]]></schedule>
+    <schedule><![CDATA[full_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
 <job>
@@ -22,7 +22,7 @@
     <country_code><![CDATA[US]]></country_code>
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time, part_time]]></schedule>
+    <schedule><![CDATA[part_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
 <job>

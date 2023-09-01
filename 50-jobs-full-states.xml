@@ -10,7 +10,7 @@
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[AUD]]></pay_currency>
+    <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
 <job>
     <title><![CDATA[JOB 3 NEWREF3]]></title>
@@ -36,7 +36,7 @@
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[part_time]]></schedule>
-    <pay_currency><![CDATA[CAD]]></pay_currency>
+    <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
 <job>
     <title><![CDATA[JOB 1 NEWREF1]]></title>
@@ -49,6 +49,6 @@
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[GBP]]></pay_currency>
+    <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
  </source> 

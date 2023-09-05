@@ -11,6 +11,9 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <cf1><![CDATA[value1]]></cf1>
+    <cf2><![CDATA[value2]]></cf2>
+    <cf3><![CDATA[value3]]></cf3>
 </job>
 <job>
     <title><![CDATA[JOB 3 NEWREF3]]></title>
@@ -24,6 +27,9 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <cf1><![CDATA[value1]]></cf1>
+    <cf2><![CDATA[value2]]></cf2>
+    <cf3><![CDATA[value3]]></cf3>
 </job>
 <job>
     <title><![CDATA[JOB 2 NEWREF2]]></title>
@@ -37,6 +43,9 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[part_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <cf1><![CDATA[value1]]></cf1>
+    <cf2><![CDATA[value2]]></cf2>
+    <cf3><![CDATA[value3]]></cf3>
 </job>
 <job>
     <title><![CDATA[JOB 1 NEWREF1]]></title>
@@ -50,5 +59,8 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <cf1><![CDATA[value1]]></cf1>
+    <cf2><![CDATA[value2]]></cf2>
+    <cf3><![CDATA[value3]]></cf3>
 </job>
  </source> 

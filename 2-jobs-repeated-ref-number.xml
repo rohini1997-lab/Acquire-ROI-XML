@@ -1,82 +1,180 @@
-<?xml version='1.0' encoding='UTF-8'?> <source>
+<?xml version='1.0' encoding='UTF-8'?>
+<source>
 <job>
-    <title><![CDATA[JOB 4 NEWREF4]]></title>
-    <description><![CDATA[New job description Thoud 4]]></description>
-    <company><![CDATA[CompanyThoud - X 4]]></company>
-    <ref_no><![CDATA[20094]]></ref_no>
-    <city><![CDATA[Washington]]></city>
-    <state><![CDATA[Maryland]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <cf1><![CDATA[value1]]></cf1>
-    <cf2><![CDATA[value2]]></cf2>
-    <cf3><![CDATA[value3]]></cf3>
-</job>
-  <job>
-    <title><![CDATA[JOB 4 NEWREF4]]></title>
-    <description><![CDATA[New job description Thoud 4]]></description>
-    <company><![CDATA[CompanyThoud - X 4]]></company>
-    <ref_no><![CDATA[20094]]></ref_no>
-    <city><![CDATA[Washington]]></city>
-    <state><![CDATA[Maryland]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <cf1><![CDATA[value1]]></cf1>
-    <cf2><![CDATA[value2]]></cf2>
-    <cf3><![CDATA[value3]]></cf3>
-</job>
-<job>
-    <title><![CDATA[JOB 3 NEWREF3]]></title>
-    <description><![CDATA[New job description Thoud 1]]></description>
-    <company><![CDATA[CompanyThoud - X 1]]></company>
-    <ref_no><![CDATA[NEWREF3]]></ref_no>
-    <city><![CDATA[Washington]]></city>
-    <state><![CDATA[Maryland]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <cf1><![CDATA[value1]]></cf1>
-    <cf2><![CDATA[value2]]></cf2>
-    <cf3><![CDATA[value3]]></cf3>
-</job>
-<job>
-    <title><![CDATA[JOB 2 NEWREF2]]></title>
-    <description><![CDATA[New job description Thoud 1]]></description>
-    <company><![CDATA[CompanyThoud - X 1]]></company>
-    <ref_no><![CDATA[NEWREF2]]></ref_no>
-    <city><![CDATA[Washington]]></city>
-    <state><![CDATA[Maryland]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[part_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <cf1><![CDATA[value1]]></cf1>
-    <cf2><![CDATA[value2]]></cf2>
-    <cf3><![CDATA[value3]]></cf3>
+    <referencenumber>
+    <![CDATA[ 20094 ]]>
+    </referencenumber>
+    <title>
+    <![CDATA[ Cultivation Associate ]]>
+    </title>
+    <description>
+    <![CDATA[ <p>Cultivators are responsible for executing production plans in keeping with the Company’s operating procedures. Cultivators carry out the day-to-day assignments and tasks of the medical Cannabis production cycle including cloning and harvesting.<br></p> <p>Cloning: Cutting and transplanting; watering; labeling; and inventory data input. Plant care during vegetative and flowering phase: trimming, manipulating and staking; big leafing and pruning; watering; plant monitoring; inventory data input.<br></p> <p>Harvesting: Cutting plants; weighing and inventory data input into the electronic inventory tracking system. Operating and maintaining cultivation systems/equipment; stocking and handling production inputs and supplies; sanitizing and cleaning growing rooms, cultivation workspaces and tools. Packaging and Trimming may be needed during peak times.</p> <p><b>Salary</b></p>$15 - $18 USD per hour<p><b>Required Skills</b></p><ul> <li>Must understand and implement the rules, regulations, policies, and procedures set forth by the state; a pursuit to further their understanding and knowledge of the industry and laws is appreciated and commendable</li> <li>Fundamental knowledge, as well as the ability to be taught and guided in areas related to harvesting, drying, trimming and curing</li> <li>Skill in analyzing potential problems with a plant or the product being processed</li> <li>Maintain a clean and organized work environment</li> <li>Physical aptitude and health necessary to perform manual labor tasks required for the proper management of grow warehouse</li> <li>Must have accountability, proactive behavior and strong attention to detail</li> <li>Candidate must be at least 21 years of age</li> <li>Must pass any and all required pre-employment screenings</li> <li>Ability to stand, sit and kneel for up to 8 hours a day with the ability to lift heavy object</li> <li>Strong attention to details and excellent time-management skills</li> <li>Willingness to take direction</li> <li>Strong work ethic</li> <li>Must have reliable transportation</li> </ul> <p><b>Desired Skills</b></p><ul> <li>1 year Experience working in a regulated cannabis cultivation facility</li> </ul> <p><b>About Westfield Group</b></p><p>Westfield Group LLC is a Michigan based commercial cannabis cultivator. Westfield Group LLC is a “class C” fully licensed Medical and Recreational cannabis growing operation based out of Detroit. Our state-of-the-art indoor grow occupies an 18,000 sq ft facility that is fully operational and producing quality cannabis since late 2022.</p> <p>Westfield Group LLC was built on a solid foundation. From our inception, we have decided to recruit qualified people to man various job positions within our company. Westfield Group LLC will seek to leverage on their expertise to build our business brand as a premiere medical/recreational cannabis cultivator within the state of Michigan.</p> <p>Our mission is to grow top-shelf cannabis flower and to establish an innovative cannabis growing brand with affordable prices to retailers and processing facilities in Michigan. We will continue to build a successful business that is compliant with all state and local municipalities and be primed and ready for national expansion. </p> <p><b>Benefits</b></p><p>Competitive wages and potential for growth and advancement within our company.</p> <p>Learn the trade and become apart of an energetic team of cultivation associates. </p> <p>Best in class cultivation education.</p> <p></p> <p><b>Equal opportunity employer</b></p><p>Westfield Group LLC is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.</p> <p>This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Westfield Group LLC makes hiring decisions based solely on qualifications, merit, and business needs at the time.</p> <p>Westfield Group LLC is actively seeking Detroit residents and we encourage candidates with substance abuse history to apply for various positions within our compnay.</p> ]]>
+    </description>
+    <country>
+    <![CDATA[ US ]]>
+    </country>
+    <city>
+    <![CDATA[ Detroit ]]>
+    </city>
+    <state>
+    <![CDATA[ MI ]]>
+    </state>
+    <postalcode>
+    <![CDATA[ 48227 ]]>
+    </postalcode>
+    <company>
+    <![CDATA[ Westfield Group ]]>
+    </company>
+    <date>
+    <![CDATA[ 2023-08-22T15:52:03.561Z ]]>
+    </date>
+    <url>
+    <![CDATA[ https://x.careersincannabis.com/job/20094 ]]>
+    </url>
+    <jobtype>
+    <![CDATA[ Full-Time ]]>
+    </jobtype>
+    <logo>
+    <![CDATA[ ]]>
+    </logo>
+    <compensation_interval>
+    <![CDATA[ hourly ]]>
+    </compensation_interval>
+    <compensation_min>
+    <![CDATA[ 15 ]]>
+    </compensation_min>
+    <compensation_max>
+    <![CDATA[ 18 ]]>
+    </compensation_max>
+    <compensation_currency>
+    <![CDATA[ USD ]]>
+    </compensation_currency>
+    <sb>
+    <![CDATA[ true ]]>
+    </sb>
+    <company_unique_name>
+    <![CDATA[ westfieldgroup1 ]]>
+    </company_unique_name>
+    <plan>
+    <![CDATA[ On Demand ]]>
+    </plan>
 </job>
 <job>
-    <title><![CDATA[JOB 1 NEWREF1]]></title>
-    <description><![CDATA[New job description Thoud 1]]></description>
-    <company><![CDATA[CompanyThoud - X 1]]></company>
-    <ref_no><![CDATA[NEWREF1]]></ref_no>
-    <city><![CDATA[Washington]]></city>
-    <state><![CDATA[Maryland]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <cf1><![CDATA[value1]]></cf1>
-    <cf2><![CDATA[value2]]></cf2>
-    <cf3><![CDATA[value3]]></cf3>
+    <referencenumber>
+    <![CDATA[ 20094 ]]>
+    </referencenumber>
+    <title>
+    <![CDATA[ Cultivation Associate ]]>
+    </title>
+    <description>
+    <![CDATA[ <p>Cultivators are responsible for executing production plans in keeping with the Company’s operating procedures. Cultivators carry out the day-to-day assignments and tasks of the medical Cannabis production cycle including cloning and harvesting.<br></p> <p>Cloning: Cutting and transplanting; watering; labeling; and inventory data input. Plant care during vegetative and flowering phase: trimming, manipulating and staking; big leafing and pruning; watering; plant monitoring; inventory data input.<br></p> <p>Harvesting: Cutting plants; weighing and inventory data input into the electronic inventory tracking system. Operating and maintaining cultivation systems/equipment; stocking and handling production inputs and supplies; sanitizing and cleaning growing rooms, cultivation workspaces and tools. Packaging and Trimming may be needed during peak times.</p> <p><b>Salary</b></p>$15 - $18 USD per hour<p><b>Required Skills</b></p><ul> <li>Must understand and implement the rules, regulations, policies, and procedures set forth by the state; a pursuit to further their understanding and knowledge of the industry and laws is appreciated and commendable</li> <li>Fundamental knowledge, as well as the ability to be taught and guided in areas related to harvesting, drying, trimming and curing</li> <li>Skill in analyzing potential problems with a plant or the product being processed</li> <li>Maintain a clean and organized work environment</li> <li>Physical aptitude and health necessary to perform manual labor tasks required for the proper management of grow warehouse</li> <li>Must have accountability, proactive behavior and strong attention to detail</li> <li>Candidate must be at least 21 years of age</li> <li>Must pass any and all required pre-employment screenings</li> <li>Ability to stand, sit and kneel for up to 8 hours a day with the ability to lift heavy object</li> <li>Strong attention to details and excellent time-management skills</li> <li>Willingness to take direction</li> <li>Strong work ethic</li> <li>Must have reliable transportation</li> </ul> <p><b>Desired Skills</b></p><ul> <li>1 year Experience working in a regulated cannabis cultivation facility</li> </ul> <p><b>About Westfield Group</b></p><p>Westfield Group LLC is a Michigan based commercial cannabis cultivator. Westfield Group LLC is a “class C” fully licensed Medical and Recreational cannabis growing operation based out of Detroit. Our state-of-the-art indoor grow occupies an 18,000 sq ft facility that is fully operational and producing quality cannabis since late 2022.</p> <p>Westfield Group LLC was built on a solid foundation. From our inception, we have decided to recruit qualified people to man various job positions within our company. Westfield Group LLC will seek to leverage on their expertise to build our business brand as a premiere medical/recreational cannabis cultivator within the state of Michigan.</p> <p>Our mission is to grow top-shelf cannabis flower and to establish an innovative cannabis growing brand with affordable prices to retailers and processing facilities in Michigan. We will continue to build a successful business that is compliant with all state and local municipalities and be primed and ready for national expansion. </p> <p><b>Benefits</b></p><p>Competitive wages and potential for growth and advancement within our company.</p> <p>Learn the trade and become apart of an energetic team of cultivation associates. </p> <p>Best in class cultivation education.</p> <p></p> <p><b>Equal opportunity employer</b></p><p>Westfield Group LLC is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.</p> <p>This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Westfield Group LLC makes hiring decisions based solely on qualifications, merit, and business needs at the time.</p> <p>Westfield Group LLC is actively seeking Detroit residents and we encourage candidates with substance abuse history to apply for various positions within our compnay.</p> ]]>
+    </description>
+    <country>
+    <![CDATA[ US ]]>
+    </country>
+    <city>
+    <![CDATA[ Detroit ]]>
+    </city>
+    <state>
+    <![CDATA[ MI ]]>
+    </state>
+    <postalcode>
+    <![CDATA[ 48227 ]]>
+    </postalcode>
+    <company>
+    <![CDATA[ Westfield Group ]]>
+    </company>
+    <date>
+    <![CDATA[ 2023-08-22T15:52:03.561Z ]]>
+    </date>
+    <url>
+    <![CDATA[ https://x.careersincannabis.com/job/20094 ]]>
+    </url>
+    <jobtype>
+    <![CDATA[ Full-Time ]]>
+    </jobtype>
+    <logo>
+    <![CDATA[ ]]>
+    </logo>
+    <compensation_interval>
+    <![CDATA[ hourly ]]>
+    </compensation_interval>
+    <compensation_min>
+    <![CDATA[ 15 ]]>
+    </compensation_min>
+    <compensation_max>
+    <![CDATA[ 18 ]]>
+    </compensation_max>
+    <compensation_currency>
+    <![CDATA[ USD ]]>
+    </compensation_currency>
+    <sb>
+    <![CDATA[ true ]]>
+    </sb>
+    <company_unique_name>
+    <![CDATA[ westfieldgroup1 ]]>
+    </company_unique_name>
+    <plan>
+    <![CDATA[ On Demand ]]>
+    </plan>
 </job>
- </source> 
+<job>
+    <referencenumber>
+    <![CDATA[ 20799 ]]>
+    </referencenumber>
+    <title>
+    <![CDATA[ Cultivation Agent ]]>
+    </title>
+    <description>
+    <![CDATA[ <h4></h4> <h4><strong>COMPANY OVERVIEW</strong></h4> <p>Cresco Labs is one of the largest public, vertically integrated, multistate operators in the cannabis industry. Our portfolio of in-house cultivated and manufactured brands features some of the highest quality, most awarded and most popular cannabis products in America. With dozens of locations nationwide, our owned and operated Sunnyside® dispensaries provide a welcoming, positive, judgement-free place to shop for anyone at any point on their cannabis journey. <br> <br>Founded in 2013, Cresco Labs’ mission is to normalize and professionalize cannabis through our passionate employees. As stewards of the cannabis industry, our teams are constantly focused on supporting the needs of our fellow colleagues, consumers, customers, and communities alike. With a focus on Social Equity and Educational Development, our SEEDTM initiative ensures that our company reflects the communities in which we serve, ensuring equal opportunity for all to have the knowledge and resources to work in and own businesses in cannabis. <br> <br>At Cresco Labs, we aim to revolutionize and lead the nation’s cannabis industry with a focus on quality and consistency of product, and to bring legitimacy to the industry with the highest level of integrity and professionalism. <br> <br>If you’re interested in joining our mission, click the below links to join our team today!</p> <h4><strong>MISSION STATEMENT</strong></h4> <p>At Cresco, we aim to lead the nation’s cannabis industry with a focus on regulatory compliance, product consistency, and customer satisfaction. Our operations bring legitimacy to the cannabis industry by acting with the highest level of integrity, strictly adhering to regulations, and promoting the clinical efficacy of cannabis. As Cresco grows, we will operate with the same level of professionalism and precision in each new market we move in to.</p> <p><strong>JOB SUMMARY</strong></p> <p>Cresco Labs is seeking a Gardener to join our facility. The Gardener is responsible for providing on-site cultivation for one or more medical cannabis gardens. Completion of tasks assigned by the Cultivation Team Lead to monitor and maintain plant production and health. Maintain quality control measures to ensure high quality product. Maintain organization, cleanliness and efficiency of production area. Carry out day-to-day plant care including watering, pruning, harvesting and trimming. Monitor and maintain plant production and quality control measures in accordance with the commonwealth and standards set by Cresco Labs.</p> <p><strong>CORE JOB DUTIES </strong></p> <p><strong>Plant Care:</strong></p> <ul> <li>Ensure plant health by pruning, topping, trimming, according to Cresco Labs policy, as well as any other tasks required</li> <li>Moving plants in an orderly, time efficient manner from one area of the cultivation facility to another</li> <li>Moving soil/coco for transplanting plants</li> <li>Transplanting smaller plants into bigger pots</li> <li>Harvesting Plants in an orderly time efficient manner</li> <li>Bucking wet or dry plants after harvest</li> </ul> <p><strong>Facility Cleaning:</strong></p> <ul> <li>Perform all assigned duties required to ensure a clean and safe cultivation facility, including the safe disposal of waste.</li> <li>Responsible for the cleanliness of all cultivation equipment and tools including light reflectors, containers, mixing tools, application tools, and ventilation equipment</li> </ul> <p><strong>Reports and Documentation:</strong></p> <ul> <li>Assist the Cultivation Manager with tracking plants from birth to harvest by ensuring proper and accurate documentation for applicable activities</li> <li>Ensure accurate documentation of all plant tracking numbers, lot numbers, and all other applicable information</li> </ul> <p><strong>REQUIRED EXPERIENCE, EDUCATION AND SKILLS </strong></p> <ul> <li>Effective time-management skills and ability to multi-task</li> <li>Ability to stand, sit, kneel, and lift equipment or plants up to 50 lbs. for extended periods</li> <li>Ability to perform the job duties in indoor and greenhouse climates of varying weather conditions</li> <li>Ability to work in a fast-paced, changing and challenging environment</li> </ul> <p><strong>ADDITIONAL REQUIREMENTS</strong></p> <ul> <li>Must be 21 years of age or older to apply</li> <li>Must comply with all legal or company regulations for working in the industry </li> </ul> <p><em>Cresco Labs is an Equal Opportunity Employer and all applicants will be considered without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.</em></p> ]]>
+    </description>
+    <country>
+    <![CDATA[ US ]]>
+    </country>
+    <city>
+    <![CDATA[ Fall River ]]>
+    </city>
+    <state>
+    <![CDATA[ MA ]]>
+    </state>
+    <postalcode>
+    <![CDATA[ 02720 ]]>
+    </postalcode>
+    <company>
+    <![CDATA[ Cresco Labs ]]>
+    </company>
+    <date>
+    <![CDATA[ 2023-08-22T00:00:00.000Z ]]>
+    </date>
+    <url>
+    <![CDATA[ https://x.careersincannabis.com/job/20799 ]]>
+    </url>
+    <jobtype>
+    <![CDATA[ Full-Time ]]>
+    </jobtype>
+    <logo>
+    <![CDATA[ ]]>
+    </logo>
+    <compensation_interval>
+    <![CDATA[ ]]>
+    </compensation_interval>
+    <compensation_min>
+    <![CDATA[ ]]>
+    </compensation_min>
+    <compensation_max>
+    <![CDATA[ ]]>
+    </compensation_max>
+    <compensation_currency>
+    <![CDATA[ USD ]]>
+    </compensation_currency>
+    <sb>
+    <![CDATA[ false ]]>
+    </sb>
+    <company_unique_name>
+    <![CDATA[ default-company ]]>
+    </company_unique_name>
+    <plan>
+    <![CDATA[ ]]>
+    </plan>
+</job>
+</source> 

@@ -4,7 +4,7 @@
         <title><![CDATA[QA Driver]]></title>
         <description><![CDATA[Are you a taxi driver]]></description>
         <company><![CDATA[Fidelia]]></company>
-        <ref_no><![CDATA[REFFEFE1]]></ref_no>
+        <ref_no><![CDATA[REF123]]></ref_no>
         <city><![CDATA[Yakutsk]]></city>
         <state><![CDATA[CA]]></state>
         <postal_code><![CDATA[94102]]></postal_code>
@@ -20,7 +20,7 @@
           <title><![CDATA[Policeman]]></title>
           <description><![CDATA[Are you a policeman]]></description>
           <company><![CDATA[Fidelia]]></company>
-          <ref_no><![CDATA[REFFEFE1]]></ref_no>
+          <ref_no><![CDATA[REF456]]></ref_no>
           <city><![CDATA[Yakutsk]]></city>
           <state><![CDATA[CA]]></state>
           <postal_code><![CDATA[94102]]></postal_code>
@@ -28,15 +28,15 @@
           <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
           <schedule><![CDATA[full_time]]></schedule>
           <pay_currency><![CDATA[USD]]></pay_currency>
-          <qa_one><![CDATA[QA_one]]></qa_one>
-        <qa_two><![CDATA[QA_two]]></qa_two>
-        <qa_three><![CDATA[QA_three]]></qa_three>
+          <qa_customone><![CDATA[QA_Custom_one]]></qa_customone>
+          <qa_customtwo><![CDATA[QA_Custom_two]]></qa_customtwo>
+          <qa_customthree><![CDATA[QA_Custom_three]]></qa_customthree>
       </job>
-       <job>
+      <job>
           <title><![CDATA[Bartender]]></title>
           <description><![CDATA[Are you a bartender]]></description>
           <company><![CDATA[Fidelia]]></company>
-          <ref_no><![CDATA[REFFEFE1]]></ref_no>
+          <ref_no><![CDATA[REF789]]></ref_no>
           <city><![CDATA[Yakutsk]]></city>
           <state><![CDATA[CA]]></state>
           <postal_code><![CDATA[94102]]></postal_code>
@@ -44,9 +44,8 @@
           <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
           <schedule><![CDATA[full_time]]></schedule>
           <pay_currency><![CDATA[USD]]></pay_currency>
-          <datacustom_one><![CDATA[Data_one]]></datacustom_one>
-        <datacustom_two><![CDATA[Data_two]]></datacustom_two>
-        <datacustom_three><![CDATA[Data_three]]></datacustom_three>
+          <qa_customone><![CDATA[QA_Custom_one]]></qa_customone>
+          <qa_customtwo><![CDATA[QA_Custom_two]]></qa_customtwo>
+          <qa_customthree><![CDATA[QA_Custom_three]]></qa_customthree>
       </job>
-
  </source>

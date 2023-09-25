@@ -20,7 +20,7 @@
           <title><![CDATA[Policeman]]></title>
           <description><![CDATA[Are you a policeman]]></description>
           <company><![CDATA[Fidelia]]></company>
-          <ref_no><![CDATA[REFFEFE1]]></ref_no>
+          <ref_no><![CDATA[REF7869]]></ref_no>
           <city><![CDATA[Yakutsk]]></city>
           <state><![CDATA[CA]]></state>
           <postal_code><![CDATA[94102]]></postal_code>
@@ -36,7 +36,7 @@
           <title><![CDATA[Bartender]]></title>
           <description><![CDATA[Are you a bartender]]></description>
           <company><![CDATA[Fidelia]]></company>
-          <ref_no><![CDATA[REFFEFE1]]></ref_no>
+          <ref_no><![CDATA[REF6787]]></ref_no>
           <city><![CDATA[Yakutsk]]></city>
           <state><![CDATA[CA]]></state>
           <postal_code><![CDATA[94102]]></postal_code>
@@ -48,5 +48,4 @@
         <datacustom_two><![CDATA[Data_two]]></datacustom_two>
         <datacustom_three><![CDATA[Data_three]]></datacustom_three>
       </job>
-
  </source>

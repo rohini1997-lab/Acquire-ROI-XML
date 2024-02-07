@@ -12,9 +12,9 @@
         <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
         <schedule><![CDATA[part_time]]></schedule>
         <pay_currency><![CDATA[USD]]></pay_currency>
-        <qa_customone><![CDATA[QA_Custom_one]]></qa_customone>
-        <qa_customtwo><![CDATA[QA_Custom_two]]></qa_customtwo>
-        <qa_customthree><![CDATA[QA_Custom_three]]></qa_customthree>
+        <custom_01><![CDATA[QA_Custom_one]]></custom_01>
+        <custom_02><![CDATA[QA_Custom_two]]></custom_02>
+        <custom_03><![CDATA[QA_Custom_three]]></custom_03>
     </job>
     <job>
           <title><![CDATA[Policeman]]></title>
@@ -28,9 +28,9 @@
           <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
           <schedule><![CDATA[full_time]]></schedule>
           <pay_currency><![CDATA[USD]]></pay_currency>
-          <qa_customone><![CDATA[QA_Custom_one]]></qa_customone>
-          <qa_customtwo><![CDATA[QA_Custom_two]]></qa_customtwo>
-          <qa_customthree><![CDATA[QA_Custom_three]]></qa_customthree>
+          <custom_01><![CDATA[QA_Custom_1]]></custom_01>
+          <custom_02><![CDATA[QA_Custom_2]]></custom_02>
+          <custom_03><![CDATA[QA_Custom_3]]></custom_03>
       </job>
       <job>
           <title><![CDATA[Bartender]]></title>
@@ -44,8 +44,8 @@
           <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
           <schedule><![CDATA[full_time]]></schedule>
           <pay_currency><![CDATA[USD]]></pay_currency>
-          <qa_customone><![CDATA[QA_Custom_one]]></qa_customone>
-          <qa_customtwo><![CDATA[QA_Custom_two]]></qa_customtwo>
-          <qa_customthree><![CDATA[QA_Custom_three]]></qa_customthree>
+          <custom_01><![CDATA[QA_Custom_11]]></custom_01>
+          <custom_02><![CDATA[QA_Custom_22]]></custom_02>
+          <custom_03><![CDATA[QA_Custom_33]]></custom_03>
       </job>
  </source>

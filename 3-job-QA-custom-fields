@@ -13,7 +13,7 @@
         <schedule><![CDATA[part_time]]></schedule>
         <pay_currency><![CDATA[USD]]></pay_currency>
         <custom_01><![CDATA[QA_Custom_one]]></custom_01>
-        <custom_01><![CDATA[QA_Custom_it]]></custom_01>
+        <custom_01><![CDATA[QA]]></custom_01>
         <custom_03><![CDATA[QA_Custom_three]]></custom_03>
     </job>
     <job>

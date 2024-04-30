@@ -9,7 +9,7 @@
         <state><![CDATA[CA]]></state>
         <postal_code><![CDATA[94102]]></postal_code>
         <country_code><![CDATA[US]]></country_code> 
-        <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
+        <apply_url><![CDATA[www.test.com]></apply_url>
         <schedule><![CDATA[full_time]]></schedule>
         <pay_currency><![CDATA[USD]]></pay_currency>
         <mycustom_one><![CDATA[data custom 1]]></mycustom_one>
